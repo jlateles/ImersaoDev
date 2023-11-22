@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(135deg, #e6c0d3, #fd3197); /* Degrade de rosa */
+}
+
+.container {
+    text-align: center;
+    padding: 80px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(243, 238, 238, 0.2);
+    background: #663399; /* Cor de fundo roxo para o container */
+}
+
+
+h1 {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: rgb(175, 43, 157);
+    color: #fff;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d14f9b;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+    width: 60px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#message {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#attempts {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#attemptCount {
+    font-weight: bold;
+    font-size: 18px;
+    color: #d14f9b;
+}
