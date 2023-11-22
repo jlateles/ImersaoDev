@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="jogo.css">
+    <title>Jogo Mentalista</title>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Seja um Mentalista!</h1>
+        <p>e adivinhe o número</p>
+
+        <label for="userGuess"></label>
+        <input type="number" id="userGuess" min="1" max="100">
+
+        <button onclick="checkGuess()">Jogar</button>
+
+        <p id="message"></p>
+        <p id="attempts">Tentativas: <span id="attemptCount">0</span></p>
+    </div>
+
+    <script src="jogo.js"></script>
+</body>
+</html>
