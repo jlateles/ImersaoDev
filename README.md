@@ -41,7 +41,7 @@ Como funciona: O usuário pode explorar uma lista de filmes, visualizar os carta
 
 Filmes Incluídos:
 - Talk to me, Bottoms, Past Lives, All of us Strangers e Jogos Vorazes
-- 
+
 Tópicos de Aprendizado:
 
 Compreender a estrutura HTML para criar uma interface interativa.
