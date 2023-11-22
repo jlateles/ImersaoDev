@@ -1,7 +1,7 @@
 # ImersãoDev - Alura
 Projetos desenvolvidos no programa Imersão Dev promovido pela Alura.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css, javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=light)](https://skillicons.dev).
 
 SISTEMA DE CADASTRO DE LIVROS | BIBLIOTECA VIRTUAL
 
