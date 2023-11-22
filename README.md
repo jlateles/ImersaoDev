@@ -31,3 +31,20 @@ Tópicos de aprendizado:
 Realizar testes interativos usando prompt;
 Criar a lógica do jogo utilizando estruturas condicionais como if e else;
 Utilizar a função Math.random() do JavaScript para gerar números aleatórios.
+
+# 3° Projeto: Catálogo de Filmes 
+Objetivo do Projeto:
+
+- Criar um catálogo de filmes interativo.
+
+Como funciona: O usuário pode explorar uma lista de filmes, visualizar os cartazes e acessar os trailers clicando nos cartazes. A lista é dinamicamente gerada a partir de um array de filmes.
+
+Filmes Incluídos:
+- Talk to me, Bottoms, Past Lives, All of us Strangers e Jogos Vorazes
+- 
+Tópicos de Aprendizado:
+
+Compreender a estrutura HTML para criar uma interface interativa.
+Utilizar JavaScript para manipular o DOM e criar elementos dinâmicos.
+Implementar eventos de clique para interatividade.
+Explorar estilos CSS para aprimorar a apresentação visual.
