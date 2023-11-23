@@ -63,3 +63,20 @@ Estilização com CSS para melhorar a apresentação visual.
 Utilização de JavaScript para manipulação dinâmica do conteúdo da tabela.
 
 Referências utilizadas: brasileirão 2023. 
+
+# 5° Projeto: Seletor de Humor Musical Swiftie 
+Objetivo:
+
+- Desenvolver um seletor de humor musical onde os usuários podem indicar como se sentem no dia e será sugerido uma música da cantora Taylor Swift.
+
+- Recursos Implementados:
+
+Interface amigável com um seletor de humor e botão de sugestão.
+Lógica em JavaScript para sugerir músicas com base no humor selecionado.
+Personalização de estilos CSS para uma experiência visual atraente.
+
+- Funcionalidades:
+
+Manipulação de eventos de clique em JavaScript.
+Utilização de condicionais (switch) para tomar decisões com base nas escolhas do usuário.
+Estilização básica com CSS para melhorar a apresentação visual.
