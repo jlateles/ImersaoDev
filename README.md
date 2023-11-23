@@ -9,12 +9,12 @@ Objetivo do Projeto:
 Criar um conversor de moedas
 - Como funciona: O usuário digita um valor em Real (BRL) e, em seguida, escolhe para qual moeda deseja converter este valor. Opções de conversão implementadas:
 
-REAL (BRL)
-Euro (EUR)
-Dólar (USD)
+REAL (BRL), Euro (EUR), Dólar (USD)
+
 Referências utilizadas para cálculos:
 
 Cotação do Real, Euro e Dólar (dados de 2023)
+
 Tópicos de aprendizado:
 
 Compreender as diferenças entre HTML, CSS e JavaScript
