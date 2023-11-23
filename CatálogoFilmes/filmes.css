@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #dd0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.page-title {
+    color: #dd0a0a;
+}
+
+.page-logo {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+.page-subtitle {
+    color: #ffffff;;
+}
+
+#cartazes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.filme-item {
+    text-align: center;
+}
+
+.filme-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.filme-item img:hover {
+    opacity: 0.8;
+}
