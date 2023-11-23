@@ -48,3 +48,18 @@ Compreender a estrutura HTML para criar uma interface interativa.
 Utilizar JavaScript para manipular o DOM e criar elementos dinâmicos.
 Implementar eventos de clique para interatividade.
 Explorar estilos CSS para aprimorar a apresentação visual.
+
+# 4°  Projeto: Tabela de Classificação
+Objetivo:
+
+- Criar uma tabela de classificação de times interativa, utilizando HTML, CSS e JavaScript.
+- Exibição da posição, nome do time e pontos na tabela.
+- Adaptação automática para dispositivos móveis devido ao design responsivo.
+
+Tópicos de Aprendizado:
+
+Compreensão da estrutura básica de HTML para tabelas.
+Estilização com CSS para melhorar a apresentação visual.
+Utilização de JavaScript para manipulação dinâmica do conteúdo da tabela.
+
+Referências utilizadas: brasileirão 2023. 
